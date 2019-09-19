@@ -12,7 +12,7 @@ import (
 
 // Config - параметры запуска бота
 type Config struct {
-	DiscordToken string `json:"discord_token"`
+	DiscordToken string `json:"NjIzMjE0MzA4NTQ0ODcyNDU5.XX_Nng.VeInogUXm-7Qul0hKHRfQdb9UeI"`
 	VkToken      string `json:"vk_token"`
 	ChannelID    string `json:"channel_id"`
 	GroupID      string `json:"group_id"`
